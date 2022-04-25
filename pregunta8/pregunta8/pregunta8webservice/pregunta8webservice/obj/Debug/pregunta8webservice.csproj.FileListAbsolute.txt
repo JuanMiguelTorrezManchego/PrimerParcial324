@@ -1,0 +1,5 @@
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8webservice\pregunta8webservice\bin\pregunta8webservice.dll
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8webservice\pregunta8webservice\bin\pregunta8webservice.pdb
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8webservice\pregunta8webservice\obj\Debug\pregunta8webservice.csprojResolveAssemblyReference.cache
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8webservice\pregunta8webservice\obj\Debug\pregunta8webservice.dll
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8webservice\pregunta8webservice\obj\Debug\pregunta8webservice.pdb
