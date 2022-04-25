@@ -1,0 +1,103 @@
+*{
+	margin: 0px ;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#header{
+	margin: auto;
+	padding: 60px;
+	width: auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#header h1{
+	color: white;
+	text-shadow: 0 0 5px red;
+	
+}
+ul {
+	list-style: none;
+}
+.nav>li{
+	float: right;
+}
+.nav li a {
+	background-color: #000;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 12px;
+	display: block;
+}
+.nav li a:hover {
+	background-color:#434343;
+}
+.banner {
+  	background: url(../pregunta1/fondo.jpg);
+  	min-height: 200px;
+ 	  position: absolute;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+
+  	z-index: -999;
+}
+.welcome{
+  text-align: center;
+  padding: 20px;
+  max-width: 750px;
+  margin: auto;
+}
+.welcome p{
+  font-size: 1.2em;
+  color: #777;
+}
+.titulo {
+    color: #142a73;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.about-services{
+    background: #f2f2f2;
+    padding-bottom: 30px;
+}
+.servicio-cont{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.servicio-ind{
+    width: 28%;
+    text-align: center;
+}
+main{
+	padding: 20px;
+}
+footer{
+    background: #414141;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+}
+
+.content-foo{
+    text-align: center;
+}
+
+.content-foo h4{
+    color: #fff;
+    border-bottom: 3px solid white;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.content-foo p{
+    color: #ccc;
+}
