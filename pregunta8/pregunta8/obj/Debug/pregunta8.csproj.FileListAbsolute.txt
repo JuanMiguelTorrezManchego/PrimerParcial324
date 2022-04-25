@@ -1,0 +1,9 @@
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8\pregunta8\bin\Debug\pregunta8.exe.config
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8\pregunta8\bin\Debug\pregunta8.exe
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8\pregunta8\bin\Debug\pregunta8.pdb
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8\pregunta8\obj\Debug\pregunta8.csprojResolveAssemblyReference.cache
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8\pregunta8\obj\Debug\pregunta8.Form1.resources
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8\pregunta8\obj\Debug\pregunta8.Properties.Resources.resources
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8\pregunta8\obj\Debug\pregunta8.csproj.GenerateResource.Cache
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8\pregunta8\obj\Debug\pregunta8.exe
+c:\users\miguel\documents\visual studio 2012\Projects\pregunta8\pregunta8\obj\Debug\pregunta8.pdb
