@@ -1,0 +1,51 @@
+create table acceso
+(
+ci int,
+usuario varchar(15),
+contrasena varchar(8)
+)
+
+create table persona
+(
+ci int,
+nombrecompleto varchar(30),
+fechanacimiento date,
+departamento varchar(2)
+)
+
+
+create table inscripcion
+(
+ciestudiante int,
+sigla varchar(6),
+nota1 int,
+nota2 int,
+nota3 int,
+promedio float
+)
+
+
+insert into acceso values(111110,'miguel','111110')
+insert into acceso values(111111,'juan','111111')
+insert into acceso values(111112,'mari','111112')
+insert into acceso values(111113,'ana','111113')
+insert into acceso values(111114,'mariana','111114')
+insert into acceso values(111134,'eduardo','111134')
+
+insert into persona values(111110,'miguel torrez','1997-03-08','02')
+insert into persona values(111111,'juan manchego','1996-11-15','01')
+insert into persona values(111112,'mari castro','1994-10-01','03')
+insert into persona values(111113,'ana castro','1998-11-10','02')
+insert into persona values(111114,'mariana vargas','1997-12-25','02')
+insert into persona values(111134,'eduardo llanez','1987-10-5','04')
+
+
+insert into inscripcion values(111110,'inf123',90,70,60,(90+70+60)/3)
+insert into inscripcion values(111110,'inf114',90,70,60,(90+70+60)/3)
+insert into inscripcion values(111110,'inf143',90,70,60,(90+70+60)/3)
+insert into inscripcion values(111111,'inf123',70,71,24,(70+71+24)/3)
+insert into inscripcion values(111112,'inf123',35,73,57,(35+73+57)/3)
+insert into inscripcion values(111112,'inf114',35,73,57,(35+73+57)/3)
+insert into inscripcion values(111113,'inf123',50,43,64,(50+43+64)/3)
+insert into inscripcion values(111114,'inf123',66,98,100,(66+98+100)/3)
+insert into inscripcion values(111114,'inf143',66,98,100,(66+98+100)/3)
